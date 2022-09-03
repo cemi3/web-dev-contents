@@ -28,3 +28,14 @@ videos to be added ...
 
 # Day X (HTTP/Web-API)
 1. https://developer.mozilla.org/en-US/docs/Web/HTTP
+
+# To be organized
+git + linux cmd (mkdir ls cd จบ 0 วัน)
+php 1-2 วัน
+sql 1 วัน
+orm 1 วัน
+nodejs 1 วัน
+docker 1 วัน
+typescript 1-2 วัน
+react 2-3 วัน
+etc.
