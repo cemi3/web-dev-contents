@@ -17,7 +17,8 @@
 7. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # Day 3 Bootstrap (CSS Framework)
-1. https://developer.mozilla.org/en-US/docs/Web/HTTP
+videos to be added ...
+1. https://getbootstrap.com/
 
 
 # Day XX (PHP/SQL):
