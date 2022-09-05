@@ -43,6 +43,13 @@
 - git & github
 - linux cmd (mkdir ls cd)  จบ 0 วัน
 - codeigniter (php framwork)
+- Advance toptic of web programming
+  - OOP Concept in many languages
+  - types, interface
+  - members of class and object
+  - public and private methods & attributes
+  - concurrency
+  - promise, async / await in javascript
 - orm 1 วัน
 - nodejs 1 วัน
 - docker 1 วัน
