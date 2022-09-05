@@ -25,12 +25,17 @@
 2. https://getbootstrap.com/
 
 
-# Day XX (PHP/SQL):
-videos to be added ...
+# Day 4-6 (PHP/SQL):
+## Tutorial videos
+- [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU)
+- [How To Create A OOP PHP Login System For Beginners | OOP PHP & PDO | OOP PHP Tutorial](https://www.youtube.com/watch?v=BaEm2Qv14oU)
+- [สอน PHP สร้างระบบ Register & Login แบบ OOP](https://www.youtube.com/watch?v=q6DZeAKpe78)
+## See more & references
 1. https://www.w3schools.com/php/default.asp
 2. https://www.w3schools.com/sql/default.asp
+3. https://dbeaver.io/
 
-# Day X (HTTP/Web-API)
+# Day 7 (HTTP/Web-API)
 1. https://developer.mozilla.org/en-US/docs/Web/HTTP
 
 # To be organized
