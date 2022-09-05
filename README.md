@@ -17,8 +17,12 @@
 7. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # Day 3 Bootstrap (CSS Framework)
-videos to be added ...
-1. https://getbootstrap.com/
+## Tutorial videos
+- [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s)
+
+## See more & references
+1. https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+2. https://getbootstrap.com/
 
 
 # Day XX (PHP/SQL):
