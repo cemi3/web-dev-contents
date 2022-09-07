@@ -1,3 +1,8 @@
+# Days 0 Overview
+- how website work
+- what is git
+- unix command line
+
 # Day 1-2 (HTML/CSS/Javascript)
 
 ## Tutorial videos
@@ -11,10 +16,11 @@
 1. https://www.w3schools.com/html/
 2. https://www.w3schools.com/css/
 3. https://www.w3schools.com/js/default.asp
-4. https://www.udemy.com/course/the-complete-web-development-bootcamp/
-5. https://developer.mozilla.org/en-US/docs/Web/HTML
-6. https://developer.mozilla.org/en-US/docs/Web/CSS
-7. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+4. https://www.w3schools.com/jquery/
+5. https://www.udemy.com/course/the-complete-web-development-bootcamp/
+6. https://developer.mozilla.org/en-US/docs/Web/HTML
+7. https://developer.mozilla.org/en-US/docs/Web/CSS
+8. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # Day 3 Bootstrap (CSS Framework)
 ## Tutorial videos
@@ -24,6 +30,9 @@
 1. https://www.w3schools.com/bootstrap/bootstrap_ver.asp
 2. https://getbootstrap.com/
 
+# Day 3.5 Jquery (Js library)
+## Read more & references
+1. https://www.w3schools.com/jquery/
 
 # Day 4-6 (PHP/SQL):
 ## Tutorial videos
@@ -38,10 +47,19 @@
 # Day 7 (HTTP/Web-API)
 1. https://developer.mozilla.org/en-US/docs/Web/HTTP
 
+# Day x (Unix command line, Version control, Git, GitHub)
+- bash command
+- manipulate file
+- version control
+
+# Day x (VSCode + Extension + WSL + Docker)
+# node.js
+
+# Advanced Topics
+## docker
+## ORM
+
 # To be organized
-- vs code + wsl + extensions
-- git & github
-- linux cmd (mkdir ls cd)  จบ 0 วัน
 - codeigniter (php framwork)
 - Advance toptic of web programming
   - OOP Concept in many languages
@@ -50,10 +68,6 @@
   - public and private methods & attributes
   - concurrency
   - promise, async / await in javascript
-- orm 1 วัน
-- nodejs 1 วัน
-- docker 1 วัน
 - typescript 1-2 วัน
 - react 2-3 วัน
-
 etc.
